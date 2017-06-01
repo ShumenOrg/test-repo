@@ -7,3 +7,11 @@ email = ruskovweb@gmail.com
 name = Mihail_Dobrev
 Age = 25
 email = mihail.m.dobrev@abv.bg
+
+-------------------------------
+
+name =Dimitar Mavrovski
+Age = 30
+email = mavrovski@gmail.com
+
+
