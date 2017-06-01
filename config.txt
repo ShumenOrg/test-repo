@@ -1,6 +1,9 @@
-name = ...
-Age = ...
-email = ...
+name = Dimitar Ruskov
+Age = 25
+email = ruskovweb@gmail.com
+
+-------------------------------
+
 name = Mihail_Dobrev
 Age = 25
 email = mihail.m.dobrev@abv.bg
