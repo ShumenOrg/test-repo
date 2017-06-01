@@ -1,0 +1,3 @@
+name = Dimitar Ruskov
+Age = 25
+email = ruskovweb@gmail.com
